@@ -1,0 +1,16 @@
+body.shifty * {
+  cursor: url('chrome-extension://__MSG_@@extension_id__/icon.png'), crosshair!important;
+}
+
+/*body.shifty *:hover {
+  background-color: rgba(0,0,255,0.3);
+}*/
+
+body.shifty .hova {
+  background-color: pink;
+  border: 1px solid green;
+}
+
+/*body.shifty *:hover {
+    background-color: pink;
+}*/
